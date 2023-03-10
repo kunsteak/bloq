@@ -184,14 +184,13 @@ path {
 <rect rx="6.0" ry="6.0" x="362.0" y="338.0" width="56.0" height="52.0" class=""/>
 <text x="390.0" y="364.0" class="tap">/</text>
 <rect rx="6.0" ry="6.0" x="422.0" y="338.0" width="56.0" height="52.0" class=""/>
-<text x="450.0" y="364.0" class="tap">1</text>
-<text x="450.0" y="385.0" class="hold">!</text>
+<text x="450.0" y="364.0" class="tap">7</text>
+<text x="450.0" y="385.0" class="hold">&amp;</text>
 <rect rx="6.0" ry="6.0" x="482.0" y="338.0" width="56.0" height="52.0" class=""/>
-<text x="510.0" y="364.0" class="tap">2</text>
-<text x="510.0" y="385.0" class="hold">@</text>
+<text x="510.0" y="364.0" class="tap">8</text>
+<text x="510.0" y="385.0" class="hold">*</text>
 <rect rx="6.0" ry="6.0" x="542.0" y="338.0" width="56.0" height="52.0" class=""/>
-<text x="570.0" y="364.0" class="tap">3</text>
-<text x="570.0" y="385.0" class="hold">#</text>
+<text x="570.0" y="364.0" class="tap">9</text>
 <rect rx="6.0" ry="6.0" x="602.0" y="338.0" width="56.0" height="52.0" class=""/>
 <text x="630.0" y="364.0" class="tap">:</text>
 <text x="630.0" y="385.0" class="hold">;</text>
@@ -231,13 +230,14 @@ path {
 <rect rx="6.0" ry="6.0" x="362.0" y="450.0" width="56.0" height="52.0" class=""/>
 <text x="390.0" y="476.0" class="tap">-</text>
 <rect rx="6.0" ry="6.0" x="422.0" y="450.0" width="56.0" height="52.0" class=""/>
-<text x="450.0" y="476.0" class="tap">7</text>
-<text x="450.0" y="497.0" class="hold">&amp;</text>
+<text x="450.0" y="476.0" class="tap">1</text>
+<text x="450.0" y="497.0" class="hold">!</text>
 <rect rx="6.0" ry="6.0" x="482.0" y="450.0" width="56.0" height="52.0" class=""/>
-<text x="510.0" y="476.0" class="tap">8</text>
-<text x="510.0" y="497.0" class="hold">*</text>
+<text x="510.0" y="476.0" class="tap">2</text>
+<text x="510.0" y="497.0" class="hold">@</text>
 <rect rx="6.0" ry="6.0" x="542.0" y="450.0" width="56.0" height="52.0" class=""/>
-<text x="570.0" y="476.0" class="tap">9</text>
+<text x="570.0" y="476.0" class="tap">3</text>
+<text x="570.0" y="497.0" class="hold">#</text>
 <rect rx="6.0" ry="6.0" x="602.0" y="450.0" width="56.0" height="52.0" class=""/>
 <text x="630.0" y="476.0" class="tap">=</text>
 <rect rx="6.0" ry="6.0" x="152.0" y="506.0" width="56.0" height="52.0" class=""/>
