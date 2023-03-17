@@ -33,3 +33,5 @@ This is just another example of how everyone's needs and preferences are unique 
 I was very fortunate to have this project of mine (and a few others) be not only noticed and approved, but also sponsored by [PCBWay](https://www.pcbway.com). They have kindly provided me with the two PCBs for this keyboard build in a high-quality immersion gold (ENIG) finish. This was my first ever sponsorship, as well as my first ever PCBWay order.
 
 Although on the pricier side, these PCBs are perfect for an Endgame build, as they look and feel very premium. Both the product and the customer service has been very satisfactory and I will certainly keep ordering from PCBWay in the future.
+
+If you'd like an extra 5$ on your first order when signing up on PCBWay you can use [this](https://pcbway.com/g/dh9XKF) referral link of mine to get started. If you choose to do so, I receive a 10$ coupon from PCBWay and am eternally grateful for your kind gesture.
